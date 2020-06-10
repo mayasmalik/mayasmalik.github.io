@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Maya S. Malik
+Community-Based Participatory Researcher (CBPR) and entering PhD student, McGill University School of Social Work
 
-You can use the [editor on GitHub](https://github.com/mayasmalik/mayasmalik.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Maya Malik (formerly Randolph) earned a Masters of Science in Social Work from Columbia School of Social Work focusing on International Social Welfare and Rights for Immigrants and Refugees through program design, research, and evaluation. Mx. Malik is focused on implementation research utilizing peacebuilding strategies to work with marginalized youth, as a means to gain access and inclusion into the larger society. Mx. Malik is interested in Participatory Action Research and ways to respect community members, specifically marginalized youth, as knowledge holders. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mayasmalik/mayasmalik.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
